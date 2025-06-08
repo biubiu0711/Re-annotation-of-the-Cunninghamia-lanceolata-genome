@@ -14,8 +14,8 @@ WGCNA.R
 
 ## AS
 suppa.sh + rmats.sh + ggsashimi.sh  
-suppa.sh use for Pacbio data
-rmats.sh usr for Rna-seq data
+suppa.sh use for Pacbio data  
+rmats.sh usr for Rna-seq data  
 ggsashimi.sh can plot target gene in rmats result
 
 ## APA
